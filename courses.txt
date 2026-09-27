@@ -4,3 +4,4 @@ liste de courses
 -pizza
 -gâteau au chcoloat
 -glaçons
+-serviettes
