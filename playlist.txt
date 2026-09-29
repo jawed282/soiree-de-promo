@@ -2,8 +2,5 @@ Playlist
 1. une chanson que tout le monde connait
 2. la chanson de l'été
 -jul tikita
-<<<<<<< HEAD
 c'est jujujul
-=======
 traingle des bermudes
->>>>>>> c6452765833763e057d4c7aabb74324a77434e62
